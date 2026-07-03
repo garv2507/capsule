@@ -1,0 +1,4 @@
+Background: #16181D
+Blue: #2F80FF
+Green: #3DDC84
+White text: #F5F5F5
